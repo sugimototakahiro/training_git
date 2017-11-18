@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Training 
+=======
+Training - GIT
+>>>>>>> 77322552bb93cd8373a740052e5cfbba107e42c8
 ============
 This guide is written around the [gitflow workflow](http://nvie.com/posts/a-successful-git-branching-model/) using
 GitHub and will cover some basic training topics (Pull requests, conflicts etc).
