@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-Training 
-=======
 Training - GIT
 >>>>>>> 77322552bb93cd8373a740052e5cfbba107e42c8
 ============
